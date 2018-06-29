@@ -1,0 +1,16 @@
+name: Menu EFX Module
+description: All kinds of strange menu effects
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+
+configure: menu_efx.settings
+
+php: 5.6
+
+hidden: false
+
+version: 0.1
