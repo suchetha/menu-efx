@@ -1,7 +1,7 @@
 {
     "name": "suchetha/menu-efx",
     "description": "A package to create various effects for menus in Drupal 8.x",
-    "type": "project",
+    "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
