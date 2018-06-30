@@ -14,4 +14,4 @@ php: 5.6
 hidden: false
 
 version: 0.1
-project: token
+project: menu
