@@ -1,6 +1,5 @@
-menu-efx:
-  version: 0.1
-
+slide_down_bar:
+  version: VERSION
   js:
     scripts/slide_down_bar.js: {}
 

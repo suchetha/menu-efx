@@ -1,13 +1,15 @@
 name: Menu EFX Module
 description: All kinds of strange menu effects
 package: Menus
-
 type: module
 core: 8.x
 
 dependencies:
 
 configure: menu_efx.settings
+
+libraries:
+  - menu_efx/slide_down_bar
 
 php: 5.6
 
